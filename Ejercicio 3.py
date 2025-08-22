@@ -1,0 +1,5 @@
+nombre : str = str(input("ingrese su nombre: "))
+apellido : str = str(input("ingrese su apellido: "))
+edad : int = int(input("ingrese su edad: "))
+pais : str = str(input("ingrese su pais: "))
+print(f"Soy {nombre} {apellido}, tengo {edad} años y vivo en {pais}")
