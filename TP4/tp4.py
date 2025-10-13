@@ -1,5 +1,5 @@
 """
-EJERCIOCIO 1
+EJERCICIO 1
 
 """
 for i in range(101):
